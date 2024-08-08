@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+ body{
+            width: 100vw;
+            min-height: 100%;
+            background: lightseagreen;
+        }
+        .image1{
+            width: 60%;
+            height: 35%;
+        }
+
+        table{
+            width: 90%;
+            height: 65%;
+        }
+
+       
+
+        .rowe {
+            max-width: 33%;
+            padding: 10px;
+            text-align: center;
+            border: 1px solid black;
+        } 
+        
+        .rowe1{
+            width: 33%;
+            padding: 10px;
+            text-align: center;
+            border: 1px solid black;
+        }
